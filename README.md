@@ -71,6 +71,3 @@ This project demonstrates how raw transactional data can be transformed into a s
 
 
 
-- `coffeeOrdersDashboard.xlsx`
-
----
